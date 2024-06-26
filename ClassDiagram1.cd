@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Chef.AddProductForm">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUAAAAAAACAAAAAAAACAAAAiAAAIsAACAAAgCAAQQAY=</HashCode>
+      <FileName>AddProductForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chef.AddRecipeForm">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCAAAgAACAAAAIwAACAAIACAAAAoIACAAAAAAAAAAY=</HashCode>
+      <FileName>AddRecipeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chef.CheckStockForm">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAAgAAAAECAABACAAAAgAACAgAAAAAAAAA=</HashCode>
+      <FileName>CheckStockForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chef.CreateMenuForm">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAACAAAgAgQECAIAACAAAAIEAKBAAAAAAAAAA=</HashCode>
+      <FileName>CreateMenuForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chef.DataManager">
+    <Position X="8" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAiCACAAAAAAAAAAA=</HashCode>
+      <FileName>DataManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chef.FileName" Collapsed="true">
+    <Position X="6" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileName.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chef.FoodItem" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAIAAA=</HashCode>
+      <FileName>FoodItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chef.Form1">
+    <Position X="13.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BSCAgAAAQCIYIAAgCACAIAIbAggAIAACFQEAAAIACAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chef.Inventory">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAACACIAAAAQAAAAAAAAQAAABAAAAAA=</HashCode>
+      <FileName>Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chef.Menu">
+    <Position X="8" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAgABAAAAAAACAAAUAAAAAAAAAAAAE=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chef.Product">
+    <Position X="1.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABABAAAQAQAAAAQCAAAAAAQAAAAAAECAAAAAgAAAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Chef.Program" Collapsed="true">
+    <Position X="6" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chef.Recipe">
+    <Position X="3.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAACQAAAAMAEAACAAAAAAAAAA=</HashCode>
+      <FileName>Recipe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chef.RemoveProductForm">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAACAAAAAQAACAAAACAAAAIAACACAAAAAEAAA=</HashCode>
+      <FileName>RemoveProductForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chef.RemoveRecipeForm">
+    <Position X="11.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAABAAwAACBAAACAAAAIAAAAAAAAAAEAAA=</HashCode>
+      <FileName>RemoveRecipeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chef.ViewRecipesForm" Collapsed="true">
+    <Position X="6" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAgACAAAAAgAECAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewRecipesForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Chef.ICostCalculable" Collapsed="true">
+    <Position X="6" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICostCalculable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
